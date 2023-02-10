@@ -14,4 +14,4 @@ Estudiando sistema microinformáticos y redes.
 - Orientado en creación de paginas web y aplicaciones
 
 ## Puedes encontrarme en:
-- [LinkedIn]https://www.linkedin.com/in/adri%C3%A1n-herrera-l%C3%B3pez-62a738239/
+- [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-herrera-l%C3%B3pez-62a738239/)
